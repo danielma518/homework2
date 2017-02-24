@@ -12,3 +12,7 @@ body {
 div {
     display: block;
 }
+
+h, h2{
+    color:white;
+}
