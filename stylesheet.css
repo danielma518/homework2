@@ -1,5 +1,5 @@
-.main-header {
-  text-align: center;
-  height: 60px;
-  
+#banner {
+    background:url('https://danielmablog.files.wordpress.com/2016/03/cwb-23-30.jpg');
+    width:100%;
+    min-height:189px;
 }
