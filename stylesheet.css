@@ -1,12 +1,9 @@
-*{
-    background-color: ##C0C0C0
-}
 
 #banner {
-    background:url('https://danielmablog.files.wordpress.com/2016/03/cwb-23-30.jpg');
+    background:url('http://www.discoverhongkong.com/common/images_awc2/thematic-banner-2016/home-banner-large.jpg');
     width:100%;
     background-color:#808080;
-    min-height:489px;
+    min-height:209px;
 }
 body {
     font-family: sans-serif, Helvetica;
@@ -14,12 +11,4 @@ body {
 
 div {
     display: block;
-}
-
-h1{
-    text-align:center;
-}
-
-header div h1{
-    text-size:30px
 }
