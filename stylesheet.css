@@ -1,8 +1,12 @@
 #banner {
     background:url('https://danielmablog.files.wordpress.com/2016/03/cwb-23-30.jpg');
     width:100%;
+    background-color:#808080;
     min-height:189px;
 }
 body {
     font-family: sans-serif, Helvetica;
+}
+h1{
+    text-align:center;
 }
