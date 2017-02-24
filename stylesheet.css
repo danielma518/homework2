@@ -1,70 +1,18 @@
-head {
-    display: none;
-}
-
-html {
-	font-family: sans-serif;
-}
-body {
-	margin: 0;
-}
-img {
-	border: 0;
-}
-.site-branding .site-description {
-	display: none;
-	font-size: 1.6rem;
-	font-weight: 300;
-	line-height: 1.62;
-	margin: 0;
-	padding: 0;
-}
-
-
-
-:hov
-
-.cls
-
-element.style {
-}
-.site-banner-inner {
-    opacity: 1.0;
-    -webkit-transition: opacity 1.0s;
-    transition: opacity 1.0s;
-}
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-* {
-    box-sizing: border-box;
-}
-user agent stylesheet
-div {
-    display: block;
-}
-Inherited from div#site-banner.site-banner.no-slider.too-tall
-.site-banner {
-    background-color: #242629;
-    opacity: 1.0;
+.site-header {
+    background-color: rgba(36,38,41,0.8);
+    color: #fff;
+    display: table;
+    left: 0;
+    min-height: 90px;
+    padding: 15px 40px;
     position: fixed;
-    text-shadow: 0 0 8px rgba(0,0,0,0.3);
+    right: 0;
+    text-shadow: 0 0 3px rgba(0,0,0,0.3);
     top: 0;
     width: 100%;
-    z-index: 1;
+    z-index: 5;
 }
-Inherited from body.home.blog.logged-in.admin-bar.no-customize-support.mp6.customizer-styles-applied.has-post-thumbnail.highlander-enabled.highlander-light.infinite-scroll.not-scrolled
-.wf-active body {
-    font-family: "Noto Serif",serif;
-}
-@media only screen and (max-width: 680px)
-body {
-    font-size: 1.6rem;
-}
-@media only screen and (max-width: 1400px)
-body {
-    font-size: 1.7rem;
-}
+
 body {
     background-color: #242629;
     color: #6a6c6e;
@@ -72,21 +20,14 @@ body {
     font-size: 1.8rem;
     line-height: 1.62;
 }
-Inherited from html.wf-ptserif-n4-active.wf-notoserif-n7-active.wf-notoserif-n4-active.wf-notoserif-i4-active.wf-notoserif-i7-active.wf-active
 html {
     box-sizing: border-box;
     font-size: 62.5%;
-}
-html {
     font-family: sans-serif;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
 }
-Pseudo ::before element
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-Pseudo ::after element
-*, *:before, *:after {
-    box-sizing: inherit;
+.site-branding {
+    display: table-cell;
+    margin: 0;
+    vertical-align: middle;
+    width: 30%;
 }
