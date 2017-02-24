@@ -15,3 +15,7 @@ div {
 h1{
     text-align:center;
 }
+
+header div h1{
+    text-size:30px
+}
