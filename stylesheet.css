@@ -1,1 +1,17 @@
-
+html {
+	font-family: sans-serif;
+}
+body {
+	margin: 0;
+}
+img {
+	border: 0;
+}
+.site-branding .site-description {
+	display: none;
+	font-size: 1.6rem;
+	font-weight: 300;
+	line-height: 1.62;
+	margin: 0;
+	padding: 0;
+}
